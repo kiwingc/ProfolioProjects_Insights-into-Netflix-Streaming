@@ -18,6 +18,7 @@ Identify which genre have the highest number of titles on Netflix.
 There are 800+ missing value (10%) in the column "country".
 
 Synchronized the date format and replaced missing value
+
 ![change date format](https://github.com/user-attachments/assets/5366d572-9efd-48ce-bbc1-b144d6edb265)
 
 
