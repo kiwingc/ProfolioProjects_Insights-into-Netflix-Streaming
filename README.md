@@ -22,6 +22,11 @@ Synchronized the date format and replaced missing value
 
 ![change date format](https://github.com/user-attachments/assets/5366d572-9efd-48ce-bbc1-b144d6edb265)
 
+**Cleaning data using SQL queries**
+
+In order to investigate the genre of the titles, I used SQL to extract the information.
+Please check out the 'genre_splited_scripts.sql' file for detailed SQL query information.
+
 
 **Alanzing data using Tableau**
 
